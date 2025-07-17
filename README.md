@@ -7,10 +7,6 @@
 
 <h2>👋 Hi, I’m krypcide </h2>
 
-<h3>
-  I'm a coder living in Europe 🇪🇺
-
-I love cats 🐱
-
-Go check my repositories !
-</h3>
+- European coder 🇪🇺
+- Cats lover 🐱
+- Linux user 🐧
